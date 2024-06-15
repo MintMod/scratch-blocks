@@ -1,4 +1,4 @@
-# TurboWarp/scratch-blocks
+# MintMod/scratch-blocks
 
 ## Playgrounds
 
